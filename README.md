@@ -4,7 +4,7 @@
 
 VFX Performance Monitor 是一个为 Unity 编辑器设计的扩展工具，旨在帮助特效和开发者实时监控和分析其视觉效果在运行时的性能表现。
 它提供了一个直观的界面来展示关键性能指标、识别性能瓶颈，并根据用户设定的预算提供告警和初步的优化建议。
-![VFX 性能监视器界面截图](MonitorWindow.png)
+<img src="MonitorWindow.png" alt="VFX 性能监视器界面截图" width="700">
 
 ## 主要功能
 
